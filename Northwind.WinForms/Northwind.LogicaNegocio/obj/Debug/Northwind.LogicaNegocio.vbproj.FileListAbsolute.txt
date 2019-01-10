@@ -1,0 +1,15 @@
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.LogicaNegocio.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.LogicaNegocio.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.LogicaNegocio.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.vbprojResolveAssemblyReference.cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.Resources.resources
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.vbproj.GenerateResource.Cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\obj\Debug\Northwind.LogicaNegocio.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.AccesoDatos.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.Entidades.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.AccesoDatos.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.AccesoDatos.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.Entidades.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.LogicaNegocio\bin\Debug\Northwind.Entidades.xml

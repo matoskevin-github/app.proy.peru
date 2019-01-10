@@ -1,0 +1,9 @@
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\bin\Debug\Northwind.Common.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\bin\Debug\Northwind.Common.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\bin\Debug\Northwind.Common.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.vbprojResolveAssemblyReference.cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.Resources.resources
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.vbproj.GenerateResource.Cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.Common\obj\Debug\Northwind.Common.pdb

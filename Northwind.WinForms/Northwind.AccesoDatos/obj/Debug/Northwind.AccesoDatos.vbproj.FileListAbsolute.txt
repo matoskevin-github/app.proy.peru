@@ -1,0 +1,12 @@
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.AccesoDatos.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.AccesoDatos.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.AccesoDatos.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.Entidades.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.Entidades.pdb
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\bin\Debug\Northwind.Entidades.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.vbprojResolveAssemblyReference.cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.Resources.resources
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.vbproj.GenerateResource.Cache
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.dll
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.xml
+E:\AplicacionesNET\Northwind.WinForms\Northwind.AccesoDatos\obj\Debug\Northwind.AccesoDatos.pdb
